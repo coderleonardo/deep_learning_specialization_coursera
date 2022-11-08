@@ -9,6 +9,7 @@ __pycache__/
 # Notes and pdfs
 *.pdf
 Notes/
+notes/
 
 # Distribution / packaging
 .Python
