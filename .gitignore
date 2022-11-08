@@ -11,6 +11,10 @@ __pycache__/
 Notes/
 notes/
 
+# .zip and .gz
+*.zip
+*.gz
+
 # Distribution / packaging
 .Python
 build/
